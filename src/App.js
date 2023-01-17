@@ -13,6 +13,9 @@ const overrrideProps = {
   },
   "Button":{
       onClick: alertFun
+  },
+  "Information about this product":{
+    children: "This has changed"
   }    
 }
 
